@@ -20,7 +20,7 @@
             "Bchapman\\": "src/Bchapman/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "0.0.1",
     "extra": {
         "branch-alias": {
             "dev-master": "0.0.x-dev"
