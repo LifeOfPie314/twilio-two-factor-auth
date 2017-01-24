@@ -1,6 +1,6 @@
 <?php
 
-namespace Bchapman\Swift;
+namespace Bchapman\Twilio;
 
 class TwilioAuth
 {
