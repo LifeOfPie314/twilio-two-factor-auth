@@ -2,7 +2,7 @@
 
 namespace Bchapman\Swift;
 
-class SwithAuth
+class SwiftAuth
 {
     public static function send($email) 
     {
