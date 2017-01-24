@@ -1,7 +1,7 @@
 {
     "name": "theshockalino/twilio-two-factor-auth",
     "description": "Two factor login Auth using Twilio's texting service.",
-    "license": "DBAD",
+    "license": "MIT",
     "keywords":["Laravel", "Twilio"],
     "authors": [
         {
