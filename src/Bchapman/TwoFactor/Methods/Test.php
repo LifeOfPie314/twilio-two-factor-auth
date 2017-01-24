@@ -6,8 +6,8 @@ use Bchapman\TwoFactor\Contracts\TwilioAuth;
 
 class Test implements TwilioAuth
 {
-    public function test()
+    public static function test()
     {
-        return 'testing';
+        dd('testing');
     }
 }

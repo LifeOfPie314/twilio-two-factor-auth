@@ -4,5 +4,5 @@ namespace Bchapman\TwoFactor\Contracts;
 
 interface TwilioAuth
 {
-    public function test();
+    public static function test();
 }
