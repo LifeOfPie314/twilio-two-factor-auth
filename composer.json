@@ -19,5 +19,6 @@
         "psr-4": {
             "Bchapman\\": "src/Bchapman/"
         }
-    }
+    },
+    "minimum-stability": "dev-master"
 }
