@@ -1,0 +1,23 @@
+{
+    "name": "theshockalino/twilio-two-factor-auth",
+    "description": "Two factor login Auth using Twilio's texting service.",
+    "license": "DBAD",
+    "keywords":["Laravel", "Twilio"],
+    "authors": [
+        {
+            "name": "Benjamin Chapman",
+            "email": "ben@chapmanfreelance.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "~5.0",
+        "illuminate/cache": "~5.0",
+        "guzzlehttp/guzzle":"~5.3|~6.0"
+    },  
+    "autoload": {
+        "psr-4": {
+            "Bchapman\\": "src/Bchapman/"
+        }
+    }
+}
